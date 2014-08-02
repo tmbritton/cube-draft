@@ -1,0 +1,52 @@
+{
+  "colors" : {
+    "white" : {
+      "creatures" : {
+        "1cc" : [
+          { "247525" : "Mother of Runes" },
+          { "193598" : "Student of Warfare" }
+        ],
+        "2cc" : [
+          { "4903" : "Soltari Monk" },
+          { "4904" : "Soltari Priest" },
+          { "198383" : "Stoneforge Mystic" }
+        ],
+        "3cc" : [
+          { "5199" : "Paladin en-Vec"}
+        ],
+        "4cc" : [
+          { "240096" : "Restoration Angel" }
+        ],
+        "5cc" : [
+          { "383171" : "Serra Angel"}
+        ],
+        "6cc" : [
+          { "39718" : "Exalted Angel"}
+        ],
+        "7cc" : [
+          { "253627" : "Angel of Serenity" }
+        ],
+        "8cc" : [
+          { "193871" : "Akroma, Angel of Wrath" }
+        ],
+        "Xcc" : [
+          { "247234" : "Mikaeus, the Lunarch" }
+        ]
+      },
+      "spells" : {
+        "1cc" : [
+          { "1367" : "Swords to Plowshares" },
+          { "179235" : "Path to Exile" },
+          { "21197" : "Land Tax" }
+        ],
+        "2cc" : [
+          { "2680" : "Disenchant" },
+          { "1329" : "Balance"}
+        ]
+      }
+    },
+    "blue" : {
+
+    }
+  }
+}
