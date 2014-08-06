@@ -4,27 +4,67 @@
       "creatures" : {
         "1cc" : [
           { "247525" : "Mother of Runes" },
-          { "193598" : "Student of Warfare" }
+          { "193598" : "Student of Warfare" },
+          { "240315" : "Elite Vanguard" },
+          { "1365" : "Savannah Lions" },
+          { "228122" : "Gideon's Lawkeeper" },
+          { "79217" : "Isamaru, Hound of Konda" },
+          { "373529" : "Soldier of the Pantheon" },
+          { "204989" : "Serra Ascendant" },
+          { "83311" : "Weathered Wayfarer" },
+          { "194018" : "Kitesail Apprentice" },
+          { "177542" : "Kor Duelist" },
+          { "249377" : "Loam Lion" },
+          { "240136" : "Cathedral Sanctifier" }
         ],
         "2cc" : [
-          { "4903" : "Soltari Monk" },
-          { "4904" : "Soltari Priest" },
-          { "198383" : "Stoneforge Mystic" }
+          { "198383" : "Stoneforge Mystic" },
+          { "213818" : "Accorder Paladin" },
+          { "370770" : "Imposing Sovereign" },
+          { "222764" : "Kor Skyfisher" },
+          { "243422" : "Knight of Meadowgrain" },
+          { "270445" : "Thalia, Guardian of Thraben" },
+          { "368516" : "Wall of Omens" },
+          { "243426" : "White Knight" },
+          { "243425" : "Silver Knight" },
+          { "221898" : "Grand Abolisher" },
+          { "288762" : "Serra Avenger" }
         ],
         "3cc" : [
-          { "5199" : "Paladin en-Vec"}
+          { "5199" : "Paladin en-Vec" },
+          { "373606" : "Fabled Hero" }, 
+          { "370624" : "Banisher Priest" },
+          { "233068" : "Blade Splicer" },
+          { "213802" : "Mirran Crusader" },
+          { "376409" : "Mirror Entity" },
+          { "240155" : "Silverblade Paladin" },
+          { "376331" : "Fiend Hunter" }, 
+          { "378377" : "Brimaz, King of Oreskos" },
+          { "366460" : "Frontline Medic" }
         ],
         "4cc" : [
-          { "240096" : "Restoration Angel" }
+          { "240096" : "Restoration Angel" }, 
+          { "15138" : "Academy Rector" },
+          { "214064" : "Hero of Bladehold" },
+          { "174823" : "Ranger of Eos"},
+          { "122360" : "Calciderm"},
+          { "259725" : "Sublime Archangel" }
         ],
         "5cc" : [
-          { "383171" : "Serra Angel"}
+          { "370627" : "Archangel of Thune" },
+          { "205077" : "Baneslayer Angel" },
+          { "370553" : "Cloadgoat Ranger" },
+          { "12955" : "Karmic Guide" },
+          { "370493" : "Reveillark"}
         ],
         "6cc" : [
-          { "39718" : "Exalted Angel"}
+          { "39718" : "Exalted Angel" },
+          { "373379" : "Sun Titan" },
+          { "370574" : "Yosei, the Morning Star" }
         ],
         "7cc" : [
-          { "253627" : "Angel of Serenity" }
+          { "253627" : "Angel of Serenity" },
+          { "214352" : "Elesh Norn, Grand Cenobite" }
         ],
         "8cc" : [
           { "193871" : "Akroma, Angel of Wrath" }
@@ -37,11 +77,44 @@
         "1cc" : [
           { "1367" : "Swords to Plowshares" },
           { "179235" : "Path to Exile" },
-          { "21197" : "Land Tax" }
+          { "373407" : "Condemn" },
+          { "21197" : "Land Tax" },
+          { "3489" : "Enlightened Tutor" },
+          { "129744" : "Spirit Link" },
+          { "122324" : "Mana Tithe" },
+          { "129593" : "Holy Day" }
         ],
         "2cc" : [
           { "2680" : "Disenchant" },
-          { "1329" : "Balance"}
+          { "1329" : "Balance" },
+          { "382186" : "Honor of the Pure" },
+          { "366465" : "Blind Obedience" },
+          { "247547" : "Journey to Nowhere" },
+          { "370812" : "Pacifism"},
+          { "21259" : "Seal of Cleansing" },
+          { "106654" : "Temporal Isolation" },
+          { "109733" : "Momentary Blink" },
+          { "4563" : "Abeyance" }
+        ],
+        "3cc" : [
+          { "4575" : "Empyrial Armor" },
+          { "973" : "Jihad" },
+          { "370680" : "Ajani, Caller of the Pride" },
+          { "5835" : "Glorious Anthem" },
+          { "373525" : "Dauntless Onslaught" },
+          { "259711" : "Oblivion Ring" },
+          { "106625" : "Sacred Mesa" },
+          { "368515" : "Spectral Procession" }
+        ],
+        "4cc" : [
+          { "382184" : "Elspeth, Knight-Errant" },
+          { "9702" : "Congregate" },
+          { "4577" : "Gerrard's Wisdom" },
+          { "220230" : "Angelic Destiny" },
+          { "1328" : "Armageddon" },
+          { "1372" : "Wrath of God" },
+          { "220139" : "Day of Judgment" },
+          { "22028" : "Parallax Wave" }
         ]
       }
     },
